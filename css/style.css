@@ -6,9 +6,12 @@
     height: 100vh;
     width: auto;
 }
+#logo{
+    height: 10vh;
+}
 .head{
     color: white;
-    margin-top: 80px;
+    margin-top:20px;
     padding: 20px;
     font-family: Arial;
 }
