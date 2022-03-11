@@ -31,3 +31,13 @@
     text-align: center;
     margin-top: 30px;
 }
+.row4{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/images/backgrounds/s_image.jpg);
+    background-size: cover;
+}
