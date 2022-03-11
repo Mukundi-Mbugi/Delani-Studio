@@ -58,6 +58,18 @@
     text-align: center;
     margin-top: 20px;
 }
+.row6{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.row7{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 .col1{
     font-size: 18px;
 }
