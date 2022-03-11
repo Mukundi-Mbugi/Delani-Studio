@@ -6,14 +6,16 @@
     height: 100vh;
     width: auto;
 }
-#logo{
-    height: 10vh;
+.msicon{
+    margin-top: 2cm;
 }
 .head{
     color: white;
-    margin-top:20px;
-    padding: 20px;
+    margin-top: 5cm;
     font-family: Arial;
+}
+.intro h1{
+    font-size: 50px;
 }
 .row1{
     position: relative;
