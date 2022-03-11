@@ -51,3 +51,15 @@
 .col1{
     font-size: 18px;
 }
+.row8{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 35px;
+}
+#message{
+    width: 40%;
+    height: 20vh;
+    padding: 0px;
+}
