@@ -57,11 +57,17 @@
     align-items: center;
     text-align: center;
     margin-top: 35px;
+    background-image: url(/images/backgrounds/c_image.jpg);
+    background-size: cover;
+    height: 100vh;
 }
 #message{
     width: 40%;
     height: 20vh;
     padding: 0px;
+    color: white;
+    background-color: transparent;
+    
 }
 .icons{
     display: flex;
@@ -69,5 +75,15 @@
     width: 100%;
     margin-top: 35px;
     list-style: none;
-
 }
+.name-mail{
+    background-color: transparent;
+}
+#copyright{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
