@@ -122,4 +122,7 @@
     position: relative;
     
 }
+#product{
+    display: none;
+}
 
