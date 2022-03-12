@@ -8,5 +8,10 @@ $(document).ready(function(){
         $("#product").toggle()
         $("product-icon").toggle()
     })
+
+    $("#develop-icon").click(function(){
+        $("#develop").toggle()
+        $("develop-icon").toggle()
+    })
     
 });
