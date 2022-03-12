@@ -90,7 +90,7 @@
     height: 100vh;
 }
 .message{
-    width: 16cm;
+    width: 50%;
     height: 50vh;
     padding: 0px;
     color: white;
@@ -113,5 +113,13 @@
     align-items: center;
     text-align: center;
     margin-top: 30px;
+}
+#design{
+    display: none;
+    margin-top: 5px;
+}
+#design-icon{
+    position: relative;
+    
 }
 
