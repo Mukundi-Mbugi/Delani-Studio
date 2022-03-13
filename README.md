@@ -18,7 +18,7 @@ If you want to contribute to the development of this application, follow the fol
 * This application is designed work in all browsers.
 * It is optimized for viewing across all media devices.
 ## BDD
-Some special features have been deployed in this web page to improve the user experience. On clicking icons under what we do section, the descriptive text embended is toggled. The hover event is used on the portfolio section to reveal the project title represented by the image displayed. The submit button when clicked displays the user's name with a response promise.
+Some special features have been deployed in this web page to improve the user experience. On clicking icons under what we do section, the descriptive text embended is toggled. The hover event is used on the portfolio section to reveal the project title represented by the image displayed. The submit button when clicked displays the user's name with a response promise. The form is designed in such a way it cannot submit with a null field. An alert is set to alert user to fill the form.
 ## Known Bugs
 There are no known bugs in this application. If you encounter a problem while interacting with the page feel free to reach me. I will gladly work to fix them. You are also invited to participate in fixing the bug using steps illustrated above.
 ## Technologies Used
