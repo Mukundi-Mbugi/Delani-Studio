@@ -144,7 +144,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work3{
     display: flex;
@@ -162,7 +162,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work2{
     display: flex;
@@ -180,7 +180,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work1{
     display: flex;
@@ -198,7 +198,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work5{
     display: flex;
@@ -216,7 +216,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work6{
     display: flex;
@@ -234,7 +234,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work7{
     display: flex;
@@ -252,7 +252,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 .work8{
     display: flex;
@@ -270,7 +270,7 @@
     font-size: 30px;
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
-    /* display: none; */
+    display: none;
 }
 #name{
     background-color: transparent;
