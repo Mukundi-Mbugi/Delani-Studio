@@ -23,6 +23,7 @@ Some special features have been deployed in this web page to improve the user ex
 There are no known bugs in this application. If you encounter a problem while interacting with the page feel free to reach me. I will gladly work to fix them. You are also invited to participate in fixing the bug using steps illustrated above.
 ## Technologies Used
 The application is created using HTML, CSS, Bootstrap, Jquerry and Javascript.
+Fonts used here are from google fonts.
 ## Support and contact details
 Please talk to us at mukundielijah@gmail.com if you have ideas on how this project can be made better. 
 ### License
