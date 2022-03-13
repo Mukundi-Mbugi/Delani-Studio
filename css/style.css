@@ -82,7 +82,7 @@
 .row8{
     position: relative;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     color: white;
     text-align: center;
     background-image: url(/images/backgrounds/c_image.jpg);
