@@ -1,17 +1,14 @@
 $(document).ready(function(){
     $("#design-icon").click(function(){
         $("#design").toggle()
-        $("design-icon").toggle()
     })
 
     $("#product-icon").click(function(){
         $("#product").toggle()
-        $("product-icon").toggle()
     })
 
     $("#develop-icon").click(function(){
         $("#develop").toggle()
-        $("develop-icon").toggle()
     })
 
     // $("y").click(function(){
@@ -20,29 +17,30 @@ $(document).ready(function(){
     //     $("x").toggle()
     // })
 
-    $("#work4").mouseover(function(){
+    $("#work4").hover(function(){
         $(".title1").toggle();
     })
-    $("#work3").mouseover(function(){
+    $("#work3").hover(function(){
         $(".title2").toggle();
     })
-    $("#work2").mouseover(function(){
+    $("#work2").hover(function(){
         $(".title3").toggle();
     })
-    $("#work1").mouseover(function(){
+    $("#work1").hover(function(){
         $(".title4").toggle();
     })
-    $("#work5").mouseover(function(){
+    $("#work5").hover(function(){
         $(".title5").toggle();
     })
-    $("#work6").mouseover(function(){
+    $("#work6").hover(function(){
         $(".title6").toggle();
     })
-    $("#work7").mouseover(function(){
+    $("#work7").hover(function(){
         $(".title7").toggle();
     })
-    $("#work8").click(function(){
+    $("#work8").hover(function(){
         $(".title8").toggle();
     })
+    
     
 });
