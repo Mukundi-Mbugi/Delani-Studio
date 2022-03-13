@@ -95,7 +95,6 @@
     padding: 0px;
     color: white;
     background-color: transparent;
-    
 }
 .icons{
     display: flex;
@@ -120,7 +119,6 @@
 }
 #design-icon{
     position: relative;
-    
 }
 #product{
     display: none;
