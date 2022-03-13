@@ -166,4 +166,22 @@
     color: rgb(255, 255, 255);
     /* display: none; */
 }
+.work2{
+    display: flex;
+}
+.title3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    /* background-color: rgb(255, 255, 255); */
+    color: rgb(255, 255, 255);
+    /* display: none; */
+}
 
