@@ -58,7 +58,7 @@
     background-size: cover;
 }
 .row5{
-    position: relative;
+    display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -123,19 +123,37 @@
     margin-top: 30px;
 }
 #design{
+    position: absolute;
     display: none;
     margin-top: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 5px;
 }
 #design-icon{
     position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 #product{
+    position: absolute;
     display: none;
     margin-top: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
 }
 #develop{
+    position: absolute;
     display: none;
     margin-top: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
 }
 .work4{
     display: flex;
@@ -323,3 +341,4 @@
     align-items: center;
     height: 100vh;
 }
+
