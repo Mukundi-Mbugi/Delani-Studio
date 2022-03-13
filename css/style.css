@@ -15,11 +15,11 @@
 }
 .head{
     color: white;
-    margin-top: 5cm;
-    font-family: Arial;
+    margin-top: 4cm;
+    padding-bottom: 10px;
 }
 .intro h1{
-    font-size: 50px;
+    font-size: 30px;
 }
 .row1{
     position: relative;

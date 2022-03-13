@@ -14,7 +14,7 @@ If you want to contribute to the development of this application, follow the fol
 6. Commit your changes using git commit -m "" adding descriptive comments of your modifications.
 7. Create a new branch in the repository and push your changes to the new branch you created.
 8. In your Git account, create a pull request to me for the branch you pushed the changes to.
-9. Once the pull request is created, I will be able to see it from my end, check them and merge aproppriately.
+9. Once the pull request is created, I will be able to see it from my end, check the corrections and merge where applicaple.
 * This application is designed work in all browsers.
 * It is optimized for viewing across all media devices.
 ## BDD
