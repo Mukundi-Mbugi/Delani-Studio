@@ -148,6 +148,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work3{
     display: flex;
@@ -166,6 +167,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work2{
     display: flex;
@@ -184,6 +186,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work1{
     display: flex;
@@ -202,6 +205,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work5{
     display: flex;
@@ -220,6 +224,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work6{
     display: flex;
@@ -238,6 +243,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work7{
     display: flex;
@@ -256,6 +262,7 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    margin-top: 60px;
 }
 .work8{
     display: flex;
@@ -274,6 +281,9 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     display: none;
+    text-align: center;
+    margin-top: 60px;
+    
 }
 #name{
     background-color: transparent;
