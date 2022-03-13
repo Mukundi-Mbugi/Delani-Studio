@@ -90,7 +90,7 @@
     height: 100vh;
 }
 .message{
-    width: 50%;
+    width: 48vw;
     height: 50vh;
     padding: 0px;
     color: white;
@@ -271,5 +271,11 @@
     /* background-color: rgb(255, 255, 255); */
     color: rgb(255, 255, 255);
     /* display: none; */
+}
+#name{
+    background-color: transparent;
+}
+#mail{
+    background-color: transparent;
 }
 
