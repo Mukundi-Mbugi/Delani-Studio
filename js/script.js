@@ -41,6 +41,12 @@ $(document).ready(function(){
     $("#work8").hover(function(){
         $(".title8").toggle();
     })
+
+    // form alert
+    $("#submit").click(function(){
+        var name= document.getElementById("name").value;
+        alert("Hello "+ name +", We have received your message. We will get back to you as soon as we can.")
+    })
     
     
 });
