@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
-*{
+
+* {
     font-family: 'Inter', sans-serif;
 }
-.cont1{
+
+.cont1 {
     background-image: url(./images/backgrounds/h_img.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -10,44 +12,52 @@
     height: 100vh;
     width: auto;
 }
-.msicon{
+
+.msicon {
     position: relative;
     padding-top: 2.5cm;
-    
-    
+
+
 }
-.head{
+
+.head {
     color: white;
     padding-top: 4cm;
     padding-bottom: 2cm;
     font-size: 60px;
 }
-.intro h1{
+
+.intro h1 {
     font-size: 50px;
 }
-#h12{
+
+#h12 {
     font-size: 40px;
 }
-.row1{
+
+.row1 {
     position: relative;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
-.row2{
+
+.row2 {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 6cm;
 }
-.row3{
+
+.row3 {
     position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 30px;
 }
-.row4{
+
+.row4 {
     position: relative;
     align-items: center;
     text-align: center;
@@ -57,36 +67,42 @@
     background-image: url(./images/backgrounds/s_image.jpg);
     background-size: cover;
 }
-.row5{
+
+.row5 {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 30px;
 }
-.cont5{
+
+.cont5 {
     position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 30px;
 }
-.row6{
+
+.row6 {
     position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
-.row7{
+
+.row7 {
     position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
-.col1{
+
+.col1 {
     font-size: 18px;
 }
-.row8{
+
+.row8 {
     position: relative;
     justify-content: center;
     color: white;
@@ -95,7 +111,8 @@
     background-size: cover;
     height: 100vh;
 }
-.message{
+
+.message {
     position: absolute;
     width: 50vw;
     height: 50vh;
@@ -105,42 +122,51 @@
     justify-content: center;
     background-color: transparent;
 }
-.icons{
+
+.icons {
     display: flex;
     justify-content: center;
     width: 100%;
     margin-top: 35px;
     list-style: none;
 }
-.name-mail{
+
+.name-mail {
     background-color: transparent;
 }
-#copyright{
+
+#copyright {
     position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 30px;
 }
-#design{
+
+#design {
     display: none;
 }
-#design-icon{
+
+#design-icon {
     position: relative;
     text-align: center;
     justify-content: center;
     align-items: center;
 }
-#product{
+
+#product {
     display: none;
 }
-#develop{
+
+#develop {
     display: none;
 }
-.work4{
+
+.work4 {
     display: flex;
 }
-.title1{
+
+.title1 {
     position: absolute;
     top: 0;
     left: 0;
@@ -156,12 +182,14 @@
     margin-left: 50px;
     border: solid;
     border-width: 4px;
-    border-color: white; 
+    border-color: white;
 }
-.work3{
+
+.work3 {
     display: flex;
 }
-.title2{
+
+.title2 {
     position: absolute;
     top: 0;
     left: 0;
@@ -178,12 +206,14 @@
     border: solid;
     border-width: 4px;
     border-color: white;
-    
+
 }
-.work2{
+
+.work2 {
     display: flex;
 }
-.title3{
+
+.title3 {
     position: absolute;
     top: 0;
     left: 0;
@@ -199,12 +229,14 @@
     margin-left: 40px;
     border: solid;
     border-width: 4px;
-    border-color: white; 
+    border-color: white;
 }
-.work1{
+
+.work1 {
     display: flex;
 }
-.title4{
+
+.title4 {
     position: absolute;
     align-items: center;
     justify-content: center;
@@ -218,10 +250,12 @@
     border-width: 4px;
     border-color: white;
 }
-.work5{
+
+.work5 {
     display: flex;
 }
-.title5{
+
+.title5 {
     position: absolute;
     top: 0;
     left: 0;
@@ -237,12 +271,14 @@
     margin-left: 55px;
     border: solid;
     border-width: 4px;
-    border-color: white; 
+    border-color: white;
 }
-.work6{
+
+.work6 {
     display: flex;
 }
-.title6{
+
+.title6 {
     position: absolute;
     top: 0;
     left: 0;
@@ -258,12 +294,14 @@
     margin-left: 55px;
     border: solid;
     border-width: 4px;
-    border-color: white; 
+    border-color: white;
 }
-.work7{
+
+.work7 {
     display: flex;
 }
-.title7{
+
+.title7 {
     position: absolute;
     top: 0;
     left: 0;
@@ -279,12 +317,14 @@
     margin-left: 45px;
     border: solid;
     border-width: 4px;
-    border-color: white; 
+    border-color: white;
 }
-.work8{
+
+.work8 {
     display: flex;
 }
-.title8{
+
+.title8 {
     position: absolute;
     top: 0;
     left: 0;
@@ -301,15 +341,18 @@
     margin-left: 45px;
     border: solid;
     border-width: 4px;
-    border-color: white;     
+    border-color: white;
 }
-#name{
+
+#name {
     background-color: transparent;
 }
-#mail{
+
+#mail {
     background-color: transparent;
 }
-.form{
+
+.form {
     width: 100%;
     height: 100%;
     display: flex;
@@ -317,10 +360,10 @@
     align-items: center;
     justify-content: center;
 }
-.cont6{
+
+.cont6 {
     position: relative;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
-

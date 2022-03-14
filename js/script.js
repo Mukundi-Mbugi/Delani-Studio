@@ -16,13 +16,6 @@ $(document).ready(function(){
         $("#pdct").toggle();
         $("#product").toggle();
     })
-
-    // $("y").click(function(){
-    //     var x=("title1","title2","title3","title4","title5","title6","title7","title8");
-    //     var y=("work1","work2","work3","work4","work5","work6","work7","work8");
-    //     $("x").toggle()
-    // })
-
     $("#work4").hover(function(){
         $(".title1").toggle();
     })
