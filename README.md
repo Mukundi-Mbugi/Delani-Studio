@@ -24,6 +24,9 @@ There are no known bugs in this application. If you encounter a problem while in
 ## Technologies Used
 The application is created using HTML, CSS, Bootstrap, Jquerry and Javascript.
 Fonts used here are from google fonts.
+## Live link
+https://mukundi-mbugi.github.io/Delani-Studio/
+
 ## Support and contact details
 Please talk to us at mukundielijah@gmail.com if you have ideas on how this project can be made better. 
 ### License

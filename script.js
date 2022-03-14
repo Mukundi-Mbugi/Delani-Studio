@@ -1,14 +1,20 @@
 $(document).ready(function(){
-    $("#design-icon").click(function(){
-        $("#design").toggle()
+    $(".design1").click(function(){
+        $("#design-icon").toggle();
+        $("#dsn").toggle();
+        $("#design").toggle();
     })
 
-    $("#product-icon").click(function(){
-        $("#product").toggle()
+    $(".develop1").click(function(){
+        $("#develop-icon").toggle();
+        $("#dv1").toggle();
+        $("#develop").toggle();
     })
 
-    $("#develop-icon").click(function(){
-        $("#develop").toggle()
+    $(".product1").click(function(){
+        $("#product-icon").toggle();
+        $("#pdct").toggle();
+        $("#product").toggle();
     })
 
     // $("y").click(function(){
