@@ -3,7 +3,7 @@
     font-family: 'Inter', sans-serif;
 }
 .cont1{
-    background-image: url(/images/backgrounds/h_img.jpg);
+    background-image: url(../images/backgrounds/h_img.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +54,7 @@
     margin-top: 30px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(/images/backgrounds/s_image.jpg);
+    background-image: url(../images/backgrounds/s_image.jpg);
     background-size: cover;
 }
 .row5{
@@ -91,7 +91,7 @@
     justify-content: center;
     color: white;
     text-align: center;
-    background-image: url(/images/backgrounds/c_image.jpg);
+    background-image: url(../images/backgrounds/c_image.jpg);
     background-size: cover;
     height: 100vh;
 }
